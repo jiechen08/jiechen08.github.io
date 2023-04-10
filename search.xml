@@ -8,9 +8,17 @@
       <link href="/2023/04/11/ceshi/"/>
       <url>/2023/04/11/ceshi/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="/./ceshi/image-20230411000323843.png"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="/images/ceshi/logo.jpg" alt="logo"></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.cnblogs.com/yinyoupoet/p/13287385.html</span><br><span class="line">https://blog.csdn.net/weixin_45342841/article/details/105620322</span><br></pre></td></tr></table></figure><p>[typora + hexo博客中插入图片 ]: <a href="https://www.cnblogs.com/yinyoupoet/p/13287385.html">https://www.cnblogs.com/yinyoupoet/p/13287385.html</a>“typora + hexo博客中插入图片 “</p><p><img src="/images/ceshi/QQ%E6%88%AA%E5%9B%BE20230411012529.jpg" alt="qq"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> logo </tag>
+            
+            <tag> Typora </tag>
+            
+        </tags>
       
     </entry>
     
