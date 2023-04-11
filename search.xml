@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Jie8</title>
+      <link href="/2023/04/11/Jie8/"/>
+      <url>/2023/04/11/Jie8/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>首先，进入<a href="https://console.cloud.tencent.com/domain/all-domain">腾讯云</a>查询自己喜欢的域名是否还可以注册，可以先在这里看看<a href="https://cloud.tencent.com/act/pro/domain-sales?from=dnspodqcloud">域名专场特惠</a></p><p><img src="/images/Jie8/image-20230411214141470.png" alt="image-20230411214141470"></p><blockquote><p>注意：这其中会有一段时间的注册局审核</p></blockquote><p><img src="/images/Jie8/image-20230411214731143.png" alt="image-20230411214731143"></p><p>第二步，进行域名解析</p><p><img src="/images/Jie8/image-20230411215014481.png" alt="image-20230411215014481"></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">在目录 D:\hexoBlog\myblog\<span class="built_in">source</span> 中，</span><br></pre></td></tr></table></figure><p>创建文件CNAME，然后将自己的域名写入到文件中，不带任何后缀，里面添加你的域名信息，</p><p>如：<a href="http://jie8.top/">Jie8.top </a>实践证明如果此时你填写的是<a href="http://www.Jie8.top,那么以后你只能用www.Jie8.top访问，而如果你填写的是[Jie8.top">www.Jie8.top,那么以后你只能用www.Jie8.top访问，而如果你填写的是[Jie8.top</a> ](<a href="http://jie8.top/">http://Jie8.top/</a>) 。那么用<a href="http://www.penglei.top和[Jie8.top">www.penglei.top和[Jie8.top</a> ](<a href="http://jie8.top/)%E8%AE%BF%E9%97%AE%E9%83%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E7%9A%84%E3%80%82">http://Jie8.top/)访问都是可以的。</a></p><p><img src="/images/Jie8/image-20230411215541234.png" alt="image-20230411215541234"></p><p>第三步，修改Github仓库中的Settings，</p><p><img src="/images/Jie8/image-20230411220037563.png" alt="image-20230411220037563"></p><p>（我修改完之后直接可以运行了……）</p><p>hexo clean，并发布即可用新的域名访问。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 域名解析 </tag>
+            
+            <tag> Jie8 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ceshi</title>
       <link href="/2023/04/11/ceshi/"/>
       <url>/2023/04/11/ceshi/</url>
